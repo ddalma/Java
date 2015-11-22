@@ -1,6 +1,7 @@
 import java.net.*;
 import java.io.*;
 
+//the server
 public class GreetingServer extends Thread
 {
    private ServerSocket serverSocket;

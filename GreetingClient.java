@@ -1,6 +1,7 @@
 import java.net.*;
 import java.io.*;
 
+//the client
 public class GreetingClient
 {
    public static void main(String [] args)
